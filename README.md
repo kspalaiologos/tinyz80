@@ -153,3 +153,7 @@ ld (<ix,iy>+1),a..............  OK
 ld (<bc,de>),a................  OK
 Tests complete
 ```
+
+## Why
+
+![meme](meme.png)
