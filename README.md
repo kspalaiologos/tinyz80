@@ -156,4 +156,4 @@ Tests complete
 
 ## Why
 
-![meme](meme.png)
+![meme](meme.jpg)
